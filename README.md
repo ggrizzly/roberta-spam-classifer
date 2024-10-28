@@ -19,7 +19,7 @@ The results are 92% - 98% accuracy depending on model use and dataset used
 | | SMS only accuracy | Disjoint 3 accuracy | Combo'd 3 accuracy |
 |:------:|:------:|:------:|:------:|
 | Multinominal Naive Bayes | 97.13% | 80.1% | 92.43% |
-| **KNN** | 96.23% | ***97.45%*** | 92.33% |
+| -> **KNN** | 96.23% | ***((97.45%))*** | 92.33% |
 | XGBoost | 97.49% | 94.42% | 93.99% |
-| **LightGBM** | ***97.93%*** | 92.82% | **93.98%** |
+| -> **LightGBM** | ***((97.93%))*** | 92.82% | **93.98%** |
 | roBERTa | - | 95.03% | - |
